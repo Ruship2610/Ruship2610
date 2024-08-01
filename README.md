@@ -4,7 +4,7 @@
 - 💬 Ask me about **React,Node.Js,Express.Js,MongoDb**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">rushipatel2610@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
