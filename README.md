@@ -14,7 +14,5 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruship2610&show_icons=true&locale=en&layout=compact" alt="ruship2610" /></p>
 
-<p>&nbsp;<img align="ccenter" src="https://github-readme-stats.vercel.app/api?username=ruship2610&show_icons=true&locale=en" alt="ruship2610" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruship2610&" alt="ruship2610" /></p>
 
